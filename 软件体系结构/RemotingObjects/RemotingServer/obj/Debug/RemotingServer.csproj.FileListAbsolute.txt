@@ -1,0 +1,8 @@
+C:\Users\Lab\Desktop\RemotingObjects\RemotingServer\bin\Debug\RemotingServer.exe.config
+C:\Users\Lab\Desktop\RemotingObjects\RemotingServer\bin\Debug\RemotingServer.exe
+C:\Users\Lab\Desktop\RemotingObjects\RemotingServer\bin\Debug\RemotingServer.pdb
+C:\Users\Lab\Desktop\RemotingObjects\RemotingServer\bin\Debug\RemotingObjects.dll
+C:\Users\Lab\Desktop\RemotingObjects\RemotingServer\bin\Debug\RemotingObjects.pdb
+C:\Users\Lab\Desktop\RemotingObjects\RemotingServer\obj\Debug\RemotingServer.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Desktop\RemotingObjects\RemotingServer\obj\Debug\RemotingServer.exe
+C:\Users\Lab\Desktop\RemotingObjects\RemotingServer\obj\Debug\RemotingServer.pdb

@@ -1,0 +1,12 @@
+E:\test\02\2-3\namespaceN1\namespaceN1\bin\Debug\namespaceN1.exe.config
+E:\test\02\2-3\namespaceN1\namespaceN1\bin\Debug\namespaceN1.exe
+E:\test\02\2-3\namespaceN1\namespaceN1\bin\Debug\namespaceN1.pdb
+E:\test\02\2-3\namespaceN1\namespaceN1\obj\Debug\namespaceN1.csprojResolveAssemblyReference.cache
+E:\test\02\2-3\namespaceN1\namespaceN1\obj\Debug\namespaceN1.exe
+E:\test\02\2-3\namespaceN1\namespaceN1\obj\Debug\namespaceN1.pdb
+E:\test\ch02\2-3\namespaceN1\namespaceN1\bin\Debug\namespaceN1.exe.config
+E:\test\ch02\2-3\namespaceN1\namespaceN1\bin\Debug\namespaceN1.exe
+E:\test\ch02\2-3\namespaceN1\namespaceN1\bin\Debug\namespaceN1.pdb
+E:\test\ch02\2-3\namespaceN1\namespaceN1\obj\Debug\namespaceN1.csprojResolveAssemblyReference.cache
+E:\test\ch02\2-3\namespaceN1\namespaceN1\obj\Debug\namespaceN1.exe
+E:\test\ch02\2-3\namespaceN1\namespaceN1\obj\Debug\namespaceN1.pdb

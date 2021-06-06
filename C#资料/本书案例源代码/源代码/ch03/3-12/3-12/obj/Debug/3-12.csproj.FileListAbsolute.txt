@@ -1,0 +1,6 @@
+E:\test\ch03\3-12\3-12\bin\Debug\3-12.exe.config
+E:\test\ch03\3-12\3-12\bin\Debug\3-12.exe
+E:\test\ch03\3-12\3-12\bin\Debug\3-12.pdb
+E:\test\ch03\3-12\3-12\obj\Debug\3-12.csprojResolveAssemblyReference.cache
+E:\test\ch03\3-12\3-12\obj\Debug\3-12.exe
+E:\test\ch03\3-12\3-12\obj\Debug\3-12.pdb

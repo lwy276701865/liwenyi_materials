@@ -1,0 +1,6 @@
+// test annoation
+scale is (2,0.3);&^%$
+for t from 0 to 2.*(PI --test
+-E)	 step PI/50**02 --test line
+   draw (cos(t),sin(t));
+test #$%--end

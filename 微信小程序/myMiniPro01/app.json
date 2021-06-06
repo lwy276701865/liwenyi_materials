@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/index/myStart"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#6495ED",
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "疯狂大冒险",
+    
+    "backgroundTextStyle": "light",
+    "enablePullDownRefresh": false
+  },
+  "sitemapLocation": "sitemap.json"
+}

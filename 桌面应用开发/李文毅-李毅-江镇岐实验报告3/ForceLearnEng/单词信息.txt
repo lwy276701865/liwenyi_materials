@@ -1,0 +1,15 @@
+苹果 香蕉 西瓜 ..\..\..\资源\apple.wav 苹果
+难度 湿度 温度 ..\..\..\资源\humidity.wav 湿度
+山顶，顶点 湖泊 气候 ..\..\..\资源\summit.wav 山顶，顶点
+剪刀 陡峭的，纯粹的 弯道 ..\..\..\资源\sheer.wav 陡峭的，纯粹的
+地板 乐队 商标 ..\..\..\资源\brand.wav 商标
+primary 主要的
+modify 修改
+select 挑选
+drop 落下
+unique 独特的
+..\..\..\资源\叉子.png 叉子 fork
+..\..\..\资源\手电筒.png 手电筒 flashlight
+..\..\..\资源\眼镜.png 眼镜 glasses
+..\..\..\资源\雨伞.png 雨伞 umbrella
+..\..\..\资源\茶壶.png 茶壶 teapot

@@ -1,0 +1,2 @@
+scale is (2,0.3);
+for t from 0 to 2.*(PI-E) step PI/50**02  draw (cos(t),sin(t));

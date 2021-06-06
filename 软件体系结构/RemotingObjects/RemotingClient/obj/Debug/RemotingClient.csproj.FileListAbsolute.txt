@@ -1,0 +1,7 @@
+C:\Users\Lab\Desktop\RemotingObjects\RemotingClient\bin\Debug\RemotingClient.exe.config
+C:\Users\Lab\Desktop\RemotingObjects\RemotingClient\bin\Debug\RemotingClient.exe
+C:\Users\Lab\Desktop\RemotingObjects\RemotingClient\bin\Debug\RemotingClient.pdb
+C:\Users\Lab\Desktop\RemotingObjects\RemotingClient\bin\Debug\RemotingObjects.dll
+C:\Users\Lab\Desktop\RemotingObjects\RemotingClient\bin\Debug\RemotingObjects.pdb
+C:\Users\Lab\Desktop\RemotingObjects\RemotingClient\obj\Debug\RemotingClient.exe
+C:\Users\Lab\Desktop\RemotingObjects\RemotingClient\obj\Debug\RemotingClient.pdb

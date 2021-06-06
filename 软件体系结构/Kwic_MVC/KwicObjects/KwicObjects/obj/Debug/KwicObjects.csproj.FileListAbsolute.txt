@@ -1,0 +1,15 @@
+E:\QQPCMgr(1)\Desktop\lab3\KWIC\KwicObjects\KwicObjects\bin\Debug\KwicObjects.dll
+E:\QQPCMgr(1)\Desktop\lab3\KWIC\KwicObjects\KwicObjects\bin\Debug\KwicObjects.pdb
+E:\QQPCMgr(1)\Desktop\lab3\KWIC\KwicObjects\KwicObjects\obj\Debug\KwicObjects.csproj.CoreCompileInputs.cache
+E:\QQPCMgr(1)\Desktop\lab3\KWIC\KwicObjects\KwicObjects\obj\Debug\KwicObjects.dll
+E:\QQPCMgr(1)\Desktop\lab3\KWIC\KwicObjects\KwicObjects\obj\Debug\KwicObjects.pdb
+D:\QQ\276701865\FileRecv\KWIC\KWIC\KwicObjects\KwicObjects\bin\Debug\KwicObjects.dll
+D:\QQ\276701865\FileRecv\KWIC\KWIC\KwicObjects\KwicObjects\bin\Debug\KwicObjects.pdb
+D:\QQ\276701865\FileRecv\KWIC\KWIC\KwicObjects\KwicObjects\obj\Debug\KwicObjects.csproj.CoreCompileInputs.cache
+D:\QQ\276701865\FileRecv\KWIC\KWIC\KwicObjects\KwicObjects\obj\Debug\KwicObjects.dll
+D:\QQ\276701865\FileRecv\KWIC\KWIC\KwicObjects\KwicObjects\obj\Debug\KwicObjects.pdb
+D:\软件体系结构\Kwic_MVC\KwicObjects\KwicObjects\bin\Debug\KwicObjects.dll
+D:\软件体系结构\Kwic_MVC\KwicObjects\KwicObjects\bin\Debug\KwicObjects.pdb
+D:\软件体系结构\Kwic_MVC\KwicObjects\KwicObjects\obj\Debug\KwicObjects.csproj.CoreCompileInputs.cache
+D:\软件体系结构\Kwic_MVC\KwicObjects\KwicObjects\obj\Debug\KwicObjects.dll
+D:\软件体系结构\Kwic_MVC\KwicObjects\KwicObjects\obj\Debug\KwicObjects.pdb

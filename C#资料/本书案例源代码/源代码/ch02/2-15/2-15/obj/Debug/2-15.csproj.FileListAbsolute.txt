@@ -1,0 +1,12 @@
+E:\test\02\2-15\2-15\bin\Debug\2-15.exe.config
+E:\test\02\2-15\2-15\bin\Debug\2-15.exe
+E:\test\02\2-15\2-15\bin\Debug\2-15.pdb
+E:\test\02\2-15\2-15\obj\Debug\2-15.csprojResolveAssemblyReference.cache
+E:\test\02\2-15\2-15\obj\Debug\2-15.exe
+E:\test\02\2-15\2-15\obj\Debug\2-15.pdb
+E:\test\ch02\2-15\2-15\bin\Debug\2-15.exe.config
+E:\test\ch02\2-15\2-15\bin\Debug\2-15.exe
+E:\test\ch02\2-15\2-15\bin\Debug\2-15.pdb
+E:\test\ch02\2-15\2-15\obj\Debug\2-15.csprojResolveAssemblyReference.cache
+E:\test\ch02\2-15\2-15\obj\Debug\2-15.exe
+E:\test\ch02\2-15\2-15\obj\Debug\2-15.pdb

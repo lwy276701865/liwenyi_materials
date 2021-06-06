@@ -1,0 +1,5 @@
+E:\test\ch12\12-4\12-4\bin\Debug\12-4.exe.config
+E:\test\ch12\12-4\12-4\bin\Debug\12-4.exe
+E:\test\ch12\12-4\12-4\bin\Debug\12-4.pdb
+E:\test\ch12\12-4\12-4\obj\Debug\12-4.exe
+E:\test\ch12\12-4\12-4\obj\Debug\12-4.pdb

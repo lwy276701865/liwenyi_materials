@@ -1,0 +1,7 @@
+D:\软件体系结构\Kwic\bin\Debug\Kwic.exe.config
+D:\软件体系结构\Kwic\bin\Debug\Kwic.exe
+D:\软件体系结构\Kwic\bin\Debug\Kwic.pdb
+D:\软件体系结构\Kwic\obj\Debug\Kwic.csprojAssemblyReference.cache
+D:\软件体系结构\Kwic\obj\Debug\Kwic.csproj.CoreCompileInputs.cache
+D:\软件体系结构\Kwic\obj\Debug\Kwic.exe
+D:\软件体系结构\Kwic\obj\Debug\Kwic.pdb

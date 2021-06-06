@@ -1,0 +1,2 @@
+1c2af2ab078049d1a82c04b45d1c0f6b
+https://free-api.heweather.net/s6/weather/now?location=³É¶¼&key=1c2af2ab078049d1a82c04b45d1c0f6b

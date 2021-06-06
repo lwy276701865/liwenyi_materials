@@ -1,0 +1,6 @@
+E:\test\ch15\15-11\15-11\bin\Debug\15-11.exe.config
+E:\test\ch15\15-11\15-11\bin\Debug\15-11.exe
+E:\test\ch15\15-11\15-11\bin\Debug\15-11.pdb
+E:\test\ch15\15-11\15-11\obj\Debug\15-11.csprojResolveAssemblyReference.cache
+E:\test\ch15\15-11\15-11\obj\Debug\15-11.exe
+E:\test\ch15\15-11\15-11\obj\Debug\15-11.pdb

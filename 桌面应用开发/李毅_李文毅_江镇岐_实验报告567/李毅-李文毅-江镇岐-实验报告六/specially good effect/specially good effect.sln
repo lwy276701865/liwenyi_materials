@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "specially good effect", "specially good effect\specially good effect.csproj", "{F6FE9764-3EEF-46E8-8217-6B7880EF7319}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myControl", "myControl\myControl.csproj", "{C82FF56A-6097-41D3-A894-436DDF7783BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6FE9764-3EEF-46E8-8217-6B7880EF7319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6FE9764-3EEF-46E8-8217-6B7880EF7319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6FE9764-3EEF-46E8-8217-6B7880EF7319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6FE9764-3EEF-46E8-8217-6B7880EF7319}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C82FF56A-6097-41D3-A894-436DDF7783BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C82FF56A-6097-41D3-A894-436DDF7783BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C82FF56A-6097-41D3-A894-436DDF7783BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C82FF56A-6097-41D3-A894-436DDF7783BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {567A9E4F-C1C6-4EC0-8349-0A15889AF2AE}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,22 @@
+/Users/charch/Desktop/Xiangyu/CommunityShare/CommunityShare/obj/x86/Debug/CommunityShare.csproj.CoreCompileInputs.cache
+/Users/charch/Desktop/Xiangyu/CommunityShare/CommunityShare/bin/Debug/CommunityShare.exe
+/Users/charch/Desktop/Xiangyu/CommunityShare/CommunityShare/bin/Debug/CommunityShare.pdb
+/Users/charch/Desktop/Xiangyu/CommunityShare/CommunityShare/obj/x86/Debug/CommunityShare.exe
+/Users/charch/Desktop/Xiangyu/CommunityShare/CommunityShare/obj/x86/Debug/CommunityShare.pdb
+/Users/charch/Desktop/Xiangyu/CommunityShare/CommunityShare/bin/Debug/MySql.Data.dll
+/Users/charch/Desktop/Xiangyu/CommunityShare/CommunityShare/obj/x86/Debug/CommunityShare.csprojResolveAssemblyReference.cache
+C:\Users\xiangyu2012\Desktop\c#\CommunityShare 2\CommunityShare\CommunityShare\obj\x86\Debug\CommunityShare.exe
+C:\Users\xiangyu2012\Desktop\c#\CommunityShare 2\CommunityShare\CommunityShare\obj\x86\Debug\CommunityShare.pdb
+C:\Users\xiangyu2012\Desktop\c#\CommunityShare 2\CommunityShare\CommunityShare\obj\x86\Debug\CommunityShare.csprojResolveAssemblyReference.cache
+C:\Users\xiangyu2012\Desktop\c#\CommunityShare 2\CommunityShare\CommunityShare\bin\Debug\CommunityShare.exe
+C:\Users\xiangyu2012\Desktop\c#\CommunityShare 2\CommunityShare\CommunityShare\bin\Debug\CommunityShare.pdb
+E:\test\C#\ch20\社区互助系统\CommunityShare\CommunityShare\CommunityShare\bin\Debug\CommunityShare.exe
+E:\test\C#\ch20\社区互助系统\CommunityShare\CommunityShare\CommunityShare\bin\Debug\CommunityShare.pdb
+E:\test\C#\ch20\社区互助系统\CommunityShare\CommunityShare\CommunityShare\obj\x86\Debug\CommunityShare.csprojResolveAssemblyReference.cache
+E:\test\C#\ch20\社区互助系统\CommunityShare\CommunityShare\CommunityShare\obj\x86\Debug\CommunityShare.exe
+E:\test\C#\ch20\社区互助系统\CommunityShare\CommunityShare\CommunityShare\obj\x86\Debug\CommunityShare.pdb
+E:\test\C#\ch20\CommunityShare\CommunityShare\CommunityShare\bin\Debug\CommunityShare.exe
+E:\test\C#\ch20\CommunityShare\CommunityShare\CommunityShare\bin\Debug\CommunityShare.pdb
+E:\test\C#\ch20\CommunityShare\CommunityShare\CommunityShare\obj\x86\Debug\CommunityShare.csprojResolveAssemblyReference.cache
+E:\test\C#\ch20\CommunityShare\CommunityShare\CommunityShare\obj\x86\Debug\CommunityShare.exe
+E:\test\C#\ch20\CommunityShare\CommunityShare\CommunityShare\obj\x86\Debug\CommunityShare.pdb

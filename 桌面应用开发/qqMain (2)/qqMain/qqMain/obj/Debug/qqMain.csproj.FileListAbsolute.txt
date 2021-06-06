@@ -1,0 +1,27 @@
+E:\QQPCMgr(1)\Desktop\Windows桌面\qqMain\qqMain\bin\Debug\qqMain.exe.config
+E:\QQPCMgr(1)\Desktop\Windows桌面\qqMain\qqMain\bin\Debug\qqMain.exe
+E:\QQPCMgr(1)\Desktop\Windows桌面\qqMain\qqMain\bin\Debug\qqMain.pdb
+E:\QQPCMgr(1)\Desktop\Windows桌面\qqMain\qqMain\obj\Debug\qqMain.csprojAssemblyReference.cache
+E:\QQPCMgr(1)\Desktop\Windows桌面\qqMain\qqMain\obj\Debug\qqMain.Properties.Resources.resources
+E:\QQPCMgr(1)\Desktop\Windows桌面\qqMain\qqMain\obj\Debug\qqMain.csproj.GenerateResource.cache
+E:\QQPCMgr(1)\Desktop\Windows桌面\qqMain\qqMain\obj\Debug\qqMain.csproj.CoreCompileInputs.cache
+E:\QQPCMgr(1)\Desktop\Windows桌面\qqMain\qqMain\obj\Debug\qqMain.exe
+E:\QQPCMgr(1)\Desktop\Windows桌面\qqMain\qqMain\obj\Debug\qqMain.pdb
+E:\QQPCMgr(1)\Desktop\Windows桌面\qqMain\qqMain\bin\Debug\qqMessageBox.dll
+E:\QQPCMgr(1)\Desktop\Windows桌面\qqMain\qqMain\bin\Debug\qqMessageBox.pdb
+E:\QQPCMgr(1)\Desktop\Windows桌面\qqMain\qqMain\obj\Debug\qqMain.csproj.CopyComplete
+E:\QQPCMgr(1)\Desktop\Windows桌面\qqMain\qqMain\obj\Debug\qqMain.frmMain.resources
+D:\Desktop\qqMain (2)\qqMain\qqMain\bin\Debug\qqMain.exe.config
+D:\Desktop\qqMain (2)\qqMain\qqMain\bin\Debug\qqMain.exe
+D:\Desktop\qqMain (2)\qqMain\qqMain\bin\Debug\qqMain.pdb
+D:\Desktop\qqMain (2)\qqMain\qqMain\bin\Debug\qqMessageBox.dll
+D:\Desktop\qqMain (2)\qqMain\qqMain\bin\Debug\qqMessageBox.pdb
+D:\Desktop\qqMain (2)\qqMain\qqMain\obj\Debug\qqMain.csprojAssemblyReference.cache
+D:\Desktop\qqMain (2)\qqMain\qqMain\obj\Debug\qqMain.frmMain.resources
+D:\Desktop\qqMain (2)\qqMain\qqMain\obj\Debug\qqMain.Properties.Resources.resources
+D:\Desktop\qqMain (2)\qqMain\qqMain\obj\Debug\qqMain.csproj.GenerateResource.cache
+D:\Desktop\qqMain (2)\qqMain\qqMain\obj\Debug\qqMain.csproj.CoreCompileInputs.cache
+D:\Desktop\qqMain (2)\qqMain\qqMain\obj\Debug\qqMain.csproj.CopyComplete
+D:\Desktop\qqMain (2)\qqMain\qqMain\obj\Debug\qqMain.exe
+D:\Desktop\qqMain (2)\qqMain\qqMain\obj\Debug\qqMain.pdb
+D:\Desktop\qqMain (2)\qqMain\qqMain\obj\Debug\qqMain.frmWeather.resources

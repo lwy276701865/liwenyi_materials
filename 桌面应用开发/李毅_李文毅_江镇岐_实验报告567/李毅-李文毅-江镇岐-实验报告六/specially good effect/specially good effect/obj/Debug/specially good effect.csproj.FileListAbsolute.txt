@@ -1,0 +1,13 @@
+D:\Desktop\specially good effect\specially good effect\bin\Debug\specially good effect.exe.config
+D:\Desktop\specially good effect\specially good effect\bin\Debug\specially good effect.exe
+D:\Desktop\specially good effect\specially good effect\bin\Debug\specially good effect.pdb
+D:\Desktop\specially good effect\specially good effect\bin\Debug\myControl.dll
+D:\Desktop\specially good effect\specially good effect\bin\Debug\myControl.pdb
+D:\Desktop\specially good effect\specially good effect\obj\Debug\specially good effect.csprojAssemblyReference.cache
+D:\Desktop\specially good effect\specially good effect\obj\Debug\specially_good_effect.Form1.resources
+D:\Desktop\specially good effect\specially good effect\obj\Debug\specially_good_effect.Properties.Resources.resources
+D:\Desktop\specially good effect\specially good effect\obj\Debug\specially good effect.csproj.GenerateResource.cache
+D:\Desktop\specially good effect\specially good effect\obj\Debug\specially good effect.csproj.CoreCompileInputs.cache
+D:\Desktop\specially good effect\specially good effect\obj\Debug\specially good effect.csproj.CopyComplete
+D:\Desktop\specially good effect\specially good effect\obj\Debug\specially good effect.exe
+D:\Desktop\specially good effect\specially good effect\obj\Debug\specially good effect.pdb

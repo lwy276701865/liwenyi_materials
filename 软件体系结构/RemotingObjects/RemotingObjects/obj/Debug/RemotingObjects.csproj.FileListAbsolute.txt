@@ -1,0 +1,5 @@
+C:\Users\Lab\Desktop\RemotingObjects\RemotingObjects\bin\Debug\RemotingObjects.dll
+C:\Users\Lab\Desktop\RemotingObjects\RemotingObjects\bin\Debug\RemotingObjects.pdb
+C:\Users\Lab\Desktop\RemotingObjects\RemotingObjects\obj\Debug\RemotingObjects.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Desktop\RemotingObjects\RemotingObjects\obj\Debug\RemotingObjects.dll
+C:\Users\Lab\Desktop\RemotingObjects\RemotingObjects\obj\Debug\RemotingObjects.pdb

@@ -1,0 +1,12 @@
+<view>
+  <view>
+    <button class="btn" bindtap="chooseImage_click"  hover-class="btn1-hover"> 选择图片 </button>
+  </view>
+  <view>
+    <button class="btn" type="primary" bindtap="takePhoto_click">拍照</button>
+  </view>
+   <view hidden='{{imgIsHide}}'>
+    <image class="image" src="{{imgFilePath}}" mode="widthFix"></image>
+  </view>
+  <camera hidden="{{cameraIsHidden}}" device-position="back" flash="off" binderror="error" style="width: 50%; height: 200px;"></camera>
+</view>

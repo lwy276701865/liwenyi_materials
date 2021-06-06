@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewBag.Title = "Login";
+}
+
+<h2>Login</h2>
+<form action="/Home/Login" method="post">
+
+    <div class="form-group">
+        <!--class用的是Bootsrap框架-->
+        <label for="acl">用户名:</label>
+        <input id="acl" type="text" name="account" class="form-control"/>
+    </div>
+    <div class="form-group">
+        <label for="Passwordl"密码:</label>
+        <input id="Passwordl" type="password" name="pwd" class="form-control"/>
+    </div>
+    <div>
+        <input id="Submitl" type="submit" value="提交" class="btn btn-default"/>
+    </div>
+    <div></div>

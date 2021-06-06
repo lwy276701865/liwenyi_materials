@@ -1,0 +1,10 @@
+D:\桌面应用开发\ppm\ppm\bin\Debug\ppm.exe.config
+D:\桌面应用开发\ppm\ppm\bin\Debug\ppm.exe
+D:\桌面应用开发\ppm\ppm\bin\Debug\ppm.pdb
+D:\桌面应用开发\ppm\ppm\obj\Debug\ppm.csprojAssemblyReference.cache
+D:\桌面应用开发\ppm\ppm\obj\Debug\ppm.FrmPPMViewer.resources
+D:\桌面应用开发\ppm\ppm\obj\Debug\ppm.Properties.Resources.resources
+D:\桌面应用开发\ppm\ppm\obj\Debug\ppm.csproj.GenerateResource.cache
+D:\桌面应用开发\ppm\ppm\obj\Debug\ppm.csproj.CoreCompileInputs.cache
+D:\桌面应用开发\ppm\ppm\obj\Debug\ppm.exe
+D:\桌面应用开发\ppm\ppm\obj\Debug\ppm.pdb

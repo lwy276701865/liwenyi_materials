@@ -1,0 +1,8 @@
+D:\Desktop\specially good effect\myControl\bin\Debug\myControl.dll
+D:\Desktop\specially good effect\myControl\bin\Debug\myControl.pdb
+D:\Desktop\specially good effect\myControl\obj\Debug\myControl.WordRain.resources
+D:\Desktop\specially good effect\myControl\obj\Debug\myControl.csproj.GenerateResource.cache
+D:\Desktop\specially good effect\myControl\obj\Debug\myControl.csproj.CoreCompileInputs.cache
+D:\Desktop\specially good effect\myControl\obj\Debug\myControl.dll
+D:\Desktop\specially good effect\myControl\obj\Debug\myControl.pdb
+D:\Desktop\specially good effect\myControl\obj\Debug\myControl.csprojAssemblyReference.cache

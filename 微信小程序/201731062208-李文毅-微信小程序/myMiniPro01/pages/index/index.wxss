@@ -1,0 +1,49 @@
+/* pages/index/index.wxss */
+.topArea
+{
+  height: 10vh;
+ 
+  display: flex;
+  flex-direction: row;
+}
+.real
+{
+  height: 100%;
+  width: 50%;
+
+}
+.adventure
+{
+   height: 100%;
+  width: 50%;
+}
+.middleArea
+{
+  height: 70vh;
+  display: flex;
+  /* background-color: #F5F5DC; */
+justify-content: center;/*项目在主轴方向的排列方式*/
+align-items: center;/*在交叉轴的排列方式*/
+word-break: break-all;/*文字自动换行*/
+}
+.middleText
+{
+  /* color: #00BFFF; */
+  font-size: 150%;
+  flex-shrink: 2;
+
+}
+.botArea
+{
+  height: 20vh;
+  /* background-color: red; */
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.botBtn
+{
+  height: 50%;
+  width: 30%;
+}

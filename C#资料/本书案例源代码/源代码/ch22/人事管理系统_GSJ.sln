@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "人事管理系统_GSJ", "人事管理系统_GSJ\人事管理系统_GSJ.csproj", "{3FA2DAFE-1A26-4211-AF7B-49475D93847F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "attach_db", "attach_db\attach_db.csproj", "{D0A92F94-1D36-4508-9BF1-DDEEEEDA9665}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FA2DAFE-1A26-4211-AF7B-49475D93847F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FA2DAFE-1A26-4211-AF7B-49475D93847F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FA2DAFE-1A26-4211-AF7B-49475D93847F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FA2DAFE-1A26-4211-AF7B-49475D93847F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0A92F94-1D36-4508-9BF1-DDEEEEDA9665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0A92F94-1D36-4508-9BF1-DDEEEEDA9665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0A92F94-1D36-4508-9BF1-DDEEEEDA9665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0A92F94-1D36-4508-9BF1-DDEEEEDA9665}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+D:\桌面应用开发\图像处理\图像处理\bin\Debug\图像处理.exe.config
+D:\桌面应用开发\图像处理\图像处理\bin\Debug\图像处理.exe
+D:\桌面应用开发\图像处理\图像处理\bin\Debug\图像处理.pdb
+D:\桌面应用开发\图像处理\图像处理\obj\Debug\图像处理.csprojAssemblyReference.cache
+D:\桌面应用开发\图像处理\图像处理\obj\Debug\图像处理.btnOpen.resources
+D:\桌面应用开发\图像处理\图像处理\obj\Debug\图像处理.Properties.Resources.resources
+D:\桌面应用开发\图像处理\图像处理\obj\Debug\图像处理.csproj.GenerateResource.cache
+D:\桌面应用开发\图像处理\图像处理\obj\Debug\图像处理.csproj.CoreCompileInputs.cache
+D:\桌面应用开发\图像处理\图像处理\obj\Debug\图像处理.exe
+D:\桌面应用开发\图像处理\图像处理\obj\Debug\图像处理.pdb

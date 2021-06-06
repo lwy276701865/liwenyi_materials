@@ -1,0 +1,5 @@
+<view class="container">
+  <image src="{{src}}" class="img"></image>
+  <text >{{name}}</text> 
+  <button open-type="getUserInfo" bindgetuserinfo="getMyInfo">点击获取头像和按钮</button>
+</view>

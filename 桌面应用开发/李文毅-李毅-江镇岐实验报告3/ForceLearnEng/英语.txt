@@ -1,0 +1,9 @@
+﻿
+primary：主要的
+modify：修改
+column:纵队，列
+select：挑选
+drop：落下
+unique：独特的，唯一的
+distinct：明显的，独特的
+identity：一致的；恒等的

@@ -1,0 +1,341 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="15.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3FA2DAFE-1A26-4211-AF7B-49475D93847F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>人事管理系统_GSJ</RootNamespace>
+    <AssemblyName>人事管理系统_GSJ</AssemblyName>
+    <ApplicationIcon>PWMS.ico</ApplicationIcon>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="GSJ_Descrytion, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\GSJ_Descrytion\GSJ_Descrytion\bin\Debug\GSJ_Descrytion.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.Word, Version=8.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>D:\Program Files\Dll\Interop.Word.dll</HintPath>
+    </Reference>
+    <Reference Include="IrisSkin2, Version=2006.3.22.45, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>D:\Program Files\VS2005应用程序界面美化\VS2005应用程序界面美化\IrisSkin2.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DoValidate.cs" />
+    <Compile Include="FrmAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAbout.Designer.cs">
+      <DependentUpon>FrmAbout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLoad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLoad.Designer.cs">
+      <DependentUpon>FrmLoad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMain.Designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InfoAddForm\Frm_CreateWord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoAddForm\Frm_CreateWord.Designer.cs">
+      <DependentUpon>Frm_CreateWord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InfoAddForm\Frm_reg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoAddForm\Frm_reg.Designer.cs">
+      <DependentUpon>Frm_reg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InfoAddForm\Frm_TongXun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoAddForm\Frm_TongXun.Designer.cs">
+      <DependentUpon>Frm_TongXun.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InfoAddForm\Frm_JiBen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoAddForm\Frm_JiBen.Designer.cs">
+      <DependentUpon>Frm_JiBen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InfoAddForm\Frm_TiShi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoAddForm\Frm_TiShi.Designer.cs">
+      <DependentUpon>Frm_TiShi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InstallerClass\PWMS_GSJ_Installer.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="InstallerClass\PWMS_GSJ_Installer.Designer.cs">
+      <DependentUpon>PWMS_GSJ_Installer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MyDBControls.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmAbout.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmAbout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLoad.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmLoad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMain.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoAddForm\Frm_CreateWord.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Frm_CreateWord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoAddForm\Frm_reg.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Frm_reg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoAddForm\Frm_TongXun.resx">
+      <DependentUpon>Frm_TongXun.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoAddForm\Frm_JiBen.resx">
+      <DependentUpon>Frm_JiBen.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoAddForm\Frm_TiShi.resx">
+      <DependentUpon>Frm_TiShi.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubFrms\Frm_TiXing.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Frm_TiXing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubFrms\Frm_TongXunLu.resx">
+      <DependentUpon>Frm_TongXunLu.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubFrms\Frm_QingKong.resx">
+      <DependentUpon>Frm_QingKong.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubFrms\Frm_ChaZhao.resx">
+      <DependentUpon>Frm_ChaZhao.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubFrms\Frm_BeiFenHuanYuan.resx">
+      <DependentUpon>Frm_BeiFenHuanYuan.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubFrms\Frm_DangAn.resx">
+      <DependentUpon>Frm_DangAn.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubFrms\Frm_TongJi.resx">
+      <DependentUpon>Frm_TongJi.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubFrms\Frm_XiuGaiYongHu.resx">
+      <DependentUpon>Frm_XiuGaiYongHu.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubFrms\Frm_JiaYongHu.resx">
+      <DependentUpon>Frm_JiaYongHu.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubFrms\Frm_QuanXian.resx">
+      <DependentUpon>Frm_QuanXian.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubFrms\Frm_JiShi.resx">
+      <DependentUpon>Frm_JiShi.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="FormsControls.cs" />
+    <Compile Include="SubFrms\Frm_TiXing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubFrms\Frm_TiXing.Designer.cs">
+      <DependentUpon>Frm_TiXing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SubFrms\Frm_TongXunLu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubFrms\Frm_TongXunLu.designer.cs">
+      <DependentUpon>Frm_TongXunLu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SubFrms\Frm_QingKong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubFrms\Frm_QingKong.designer.cs">
+      <DependentUpon>Frm_QingKong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SubFrms\Frm_ChaZhao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubFrms\Frm_ChaZhao.designer.cs">
+      <DependentUpon>Frm_ChaZhao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SubFrms\Frm_BeiFenHuanYuan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubFrms\Frm_BeiFenHuanYuan.designer.cs">
+      <DependentUpon>Frm_BeiFenHuanYuan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SubFrms\Frm_DangAn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubFrms\Frm_DangAn.designer.cs">
+      <DependentUpon>Frm_DangAn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SubFrms\Frm_TongJi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubFrms\Frm_TongJi.designer.cs">
+      <DependentUpon>Frm_TongJi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SubFrms\Frm_XiuGaiYongHu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubFrms\Frm_XiuGaiYongHu.designer.cs">
+      <DependentUpon>Frm_XiuGaiYongHu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SubFrms\Frm_JiaYongHu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubFrms\Frm_JiaYongHu.designer.cs">
+      <DependentUpon>Frm_JiaYongHu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SubFrms\Frm_QuanXian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubFrms\Frm_QuanXian.designer.cs">
+      <DependentUpon>Frm_QuanXian.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SubFrms\Frm_JiShi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubFrms\Frm_JiShi.designer.cs">
+      <DependentUpon>Frm_JiShi.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\load1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\添加.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\修改.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\删除.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\取消.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\退出.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\main3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\人事档案管理.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\人事资料查询.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\提醒.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\通讯.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\日常记事.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\退出.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\file_picture.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7_24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="PWMS.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

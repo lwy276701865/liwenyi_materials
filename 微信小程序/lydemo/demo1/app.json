@@ -1,0 +1,34 @@
+{
+  "pages": [
+   
+    "pages/page1/page1",
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/myCamera/myCamera"
+    
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": true
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "icons/首页.png",
+        "selectedIconPath": "icons/首页-选中.png"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "日志",
+        "iconPath": "icons/首页.png",
+        "selectedIconPath": "icons/首页-选中.png"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json"
+}

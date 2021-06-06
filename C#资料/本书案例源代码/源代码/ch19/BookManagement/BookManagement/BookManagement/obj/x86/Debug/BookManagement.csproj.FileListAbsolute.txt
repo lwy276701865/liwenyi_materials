@@ -1,0 +1,33 @@
+/Users/charch/Desktop/Xiangyu/BookManagement/BookManagement/bin/Debug/BookManagement.exe
+/Users/charch/Desktop/Xiangyu/BookManagement/BookManagement/bin/Debug/BookManagement.pdb
+/Users/charch/Desktop/Xiangyu/BookManagement/BookManagement/obj/x86/Debug/BookManagement.csproj.CoreCompileInputs.cache
+/Users/charch/Desktop/Xiangyu/BookManagement/BookManagement/obj/x86/Debug/BookManagement.exe
+/Users/charch/Desktop/Xiangyu/BookManagement/BookManagement/obj/x86/Debug/BookManagement.pdb
+/Users/charch/Desktop/Xiangyu/BookManagement/BookManagement/bin/Debug/MySql.Data.dll
+/Users/charch/Desktop/Xiangyu/BookManagement/BookManagement/obj/x86/Debug/BookManagement.csprojResolveAssemblyReference.cache
+C:\Users\xiangyu2012\Desktop\BookManagement 2\BookManagement\BookManagement\bin\Debug\BookManagement.exe
+C:\Users\xiangyu2012\Desktop\BookManagement 2\BookManagement\BookManagement\bin\Debug\BookManagement.pdb
+C:\Users\xiangyu2012\Desktop\BookManagement 2\BookManagement\BookManagement\obj\x86\Debug\BookManagement.csprojResolveAssemblyReference.cache
+C:\Users\xiangyu2012\Desktop\BookManagement 2\BookManagement\BookManagement\obj\x86\Debug\BookManagement.exe
+C:\Users\xiangyu2012\Desktop\BookManagement 2\BookManagement\BookManagement\obj\x86\Debug\BookManagement.pdb
+C:\Users\xiangyu2012\Desktop\c#\BookManagement 2\BookManagement\BookManagement\obj\x86\Debug\BookManagement.exe
+C:\Users\xiangyu2012\Desktop\c#\BookManagement 2\BookManagement\BookManagement\obj\x86\Debug\BookManagement.pdb
+C:\Users\xiangyu2012\Desktop\c#\BookManagement 2\BookManagement\BookManagement\bin\Debug\BookManagement.exe
+C:\Users\xiangyu2012\Desktop\c#\BookManagement 2\BookManagement\BookManagement\bin\Debug\BookManagement.pdb
+C:\Users\xiangyu2012\Desktop\c#\BookManagement 2\BookManagement\BookManagement\obj\x86\Debug\BookManagement.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\图书管理系统项目\图书管理系统项目\BookManagement\BookManagement\BookManagement\bin\Debug\BookManagement.exe
+C:\Users\admin\Desktop\图书管理系统项目\图书管理系统项目\BookManagement\BookManagement\BookManagement\bin\Debug\BookManagement.pdb
+C:\Users\admin\Desktop\图书管理系统项目\图书管理系统项目\BookManagement\BookManagement\BookManagement\obj\x86\Debug\BookManagement.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\图书管理系统项目\图书管理系统项目\BookManagement\BookManagement\BookManagement\obj\x86\Debug\BookManagement.exe
+C:\Users\admin\Desktop\图书管理系统项目\图书管理系统项目\BookManagement\BookManagement\BookManagement\obj\x86\Debug\BookManagement.pdb
+D:\C#代码\本书案例源代码\源代码\ch19\BookManagement\BookManagement\BookManagement\bin\Debug\BookManagement.exe
+D:\C#代码\本书案例源代码\源代码\ch19\BookManagement\BookManagement\BookManagement\bin\Debug\BookManagement.pdb
+D:\C#代码\本书案例源代码\源代码\ch19\BookManagement\BookManagement\BookManagement\bin\Debug\MySql.Data.dll
+D:\C#代码\本书案例源代码\源代码\ch19\BookManagement\BookManagement\BookManagement\bin\Debug\Google.Protobuf.dll
+D:\C#代码\本书案例源代码\源代码\ch19\BookManagement\BookManagement\BookManagement\bin\Debug\BouncyCastle.Crypto.dll
+D:\C#代码\本书案例源代码\源代码\ch19\BookManagement\BookManagement\BookManagement\bin\Debug\Renci.SshNet.dll
+D:\C#代码\本书案例源代码\源代码\ch19\BookManagement\BookManagement\BookManagement\bin\Debug\MySql.Data.xml
+D:\C#代码\本书案例源代码\源代码\ch19\BookManagement\BookManagement\BookManagement\obj\x86\Debug\BookManagement.csprojAssemblyReference.cache
+D:\C#代码\本书案例源代码\源代码\ch19\BookManagement\BookManagement\BookManagement\obj\x86\Debug\BookManagement.csproj.CopyComplete
+D:\C#代码\本书案例源代码\源代码\ch19\BookManagement\BookManagement\BookManagement\obj\x86\Debug\BookManagement.exe
+D:\C#代码\本书案例源代码\源代码\ch19\BookManagement\BookManagement\BookManagement\obj\x86\Debug\BookManagement.pdb

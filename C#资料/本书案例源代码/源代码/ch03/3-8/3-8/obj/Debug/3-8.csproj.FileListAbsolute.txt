@@ -1,0 +1,6 @@
+E:\test\ch03\3-8\3-8\bin\Debug\3-8.exe.config
+E:\test\ch03\3-8\3-8\bin\Debug\3-8.exe
+E:\test\ch03\3-8\3-8\bin\Debug\3-8.pdb
+E:\test\ch03\3-8\3-8\obj\Debug\3-8.csprojResolveAssemblyReference.cache
+E:\test\ch03\3-8\3-8\obj\Debug\3-8.exe
+E:\test\ch03\3-8\3-8\obj\Debug\3-8.pdb

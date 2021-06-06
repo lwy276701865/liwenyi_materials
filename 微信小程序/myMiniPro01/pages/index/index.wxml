@@ -1,0 +1,18 @@
+<!--pages/index/index.wxml-->
+<!-- 第一个区域：真/大 -->
+<view class="topArea">
+<button class="real"  type="primary"  bindtap="setPlain1" plain="{{plain1}}" >真心话</button>
+<button class="adventure" type="primary"  bindtap="setPlain2" plain="{{plain2}}">大冒险</button>
+</view>
+<!-- 第二个区域：显示区域 -->
+<view  class="middleArea"  style="background-color:{{color}}" >
+<text class="middleText" style="color:#00BFFF"  wx:for="{{questionReal}}" wx:if="{{index==randomReal&&plain1==false}}" wx:key="*this">{{item}} </text> 
+<text class="middleText" style="color:#008000"  wx:for="{{questionAdventure}}" wx:if="{{index==randomAdventure&&plain1==true}}" wx:key="*this">{{item}}</text> 
+</view>
+{{}}
+<!-- 第三个区域：操作区 -->
+<view class="botArea">
+<button class="botBtn"  bindtap="getRandomReal" type="primary" wx:if="{{plain1==false}}">选题</button>
+<button class="botBtn"  bindtap="getRandomAdventure" type="primary" wx:if="{{plain1==true}}">选题</button>
+<button class="botBtn" bindtap="gotomyStart">开始</button>
+</view>

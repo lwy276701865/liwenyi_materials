@@ -1,0 +1,17 @@
+C:\Users\Lab\Desktop\RemotingObjects\RemotingClient\bin\Debug\RemotingClient.exe.config
+C:\Users\Lab\Desktop\RemotingObjects\RemotingClient\bin\Debug\RemotingClient.exe
+C:\Users\Lab\Desktop\RemotingObjects\RemotingClient\bin\Debug\RemotingClient.pdb
+C:\Users\Lab\Desktop\RemotingObjects\RemotingClient\bin\Debug\RemotingObjects.dll
+C:\Users\Lab\Desktop\RemotingObjects\RemotingClient\bin\Debug\RemotingObjects.pdb
+C:\Users\Lab\Desktop\RemotingObjects\RemotingClient\obj\Debug\RemotingClient.exe
+C:\Users\Lab\Desktop\RemotingObjects\RemotingClient\obj\Debug\RemotingClient.pdb
+D:\Desktop\RemotingObjects\RemotingClient\bin\Debug\RemotingClient.exe.config
+D:\Desktop\RemotingObjects\RemotingClient\bin\Debug\RemotingClient.exe
+D:\Desktop\RemotingObjects\RemotingClient\bin\Debug\RemotingClient.pdb
+D:\Desktop\RemotingObjects\RemotingClient\bin\Debug\RemotingObjects.dll
+D:\Desktop\RemotingObjects\RemotingClient\bin\Debug\RemotingObjects.pdb
+D:\Desktop\RemotingObjects\RemotingClient\obj\Debug\RemotingClient.csprojAssemblyReference.cache
+D:\Desktop\RemotingObjects\RemotingClient\obj\Debug\RemotingClient.csproj.CoreCompileInputs.cache
+D:\Desktop\RemotingObjects\RemotingClient\obj\Debug\RemotingClient.csproj.CopyComplete
+D:\Desktop\RemotingObjects\RemotingClient\obj\Debug\RemotingClient.exe
+D:\Desktop\RemotingObjects\RemotingClient\obj\Debug\RemotingClient.pdb

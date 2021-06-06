@@ -1,0 +1,5 @@
+E:\教学资料\软件体系结构\2019\讲课PPT\设计模式\具体模式\Factory\Factory\bin\Debug\Factory.exe
+E:\教学资料\软件体系结构\2019\讲课PPT\设计模式\具体模式\Factory\Factory\bin\Debug\Factory.pdb
+E:\教学资料\软件体系结构\2019\讲课PPT\设计模式\具体模式\Factory\Factory\obj\x86\Debug\Factory.exe
+E:\教学资料\软件体系结构\2019\讲课PPT\设计模式\具体模式\Factory\Factory\obj\x86\Debug\Factory.pdb
+E:\教学资料\软件体系结构\2019\讲课PPT\设计模式\具体模式\Factory\Factory\obj\x86\Debug\Factory.csprojResolveAssemblyReference.cache

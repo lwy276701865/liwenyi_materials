@@ -1,0 +1,17 @@
+D:\Desktop\scanner\scanner\bin\Debug\netcoreapp2.1\scanner.deps.json
+D:\Desktop\scanner\scanner\bin\Debug\netcoreapp2.1\scanner.runtimeconfig.json
+D:\Desktop\scanner\scanner\bin\Debug\netcoreapp2.1\scanner.runtimeconfig.dev.json
+D:\Desktop\scanner\scanner\bin\Debug\netcoreapp2.1\scanner.dll
+D:\Desktop\scanner\scanner\bin\Debug\netcoreapp2.1\scanner.pdb
+D:\Desktop\scanner\scanner\obj\Debug\netcoreapp2.1\scanner.csprojAssemblyReference.cache
+D:\Desktop\scanner\scanner\obj\Debug\netcoreapp2.1\scanner.csproj.CoreCompileInputs.cache
+D:\Desktop\scanner\scanner\obj\Debug\netcoreapp2.1\scanner.AssemblyInfoInputs.cache
+D:\Desktop\scanner\scanner\obj\Debug\netcoreapp2.1\scanner.AssemblyInfo.cs
+D:\Desktop\scanner\scanner\obj\Debug\netcoreapp2.1\scanner.dll
+D:\Desktop\scanner\scanner\obj\Debug\netcoreapp2.1\scanner.pdb
+D:\编译原理\scanner\scanner\obj\Debug\netcoreapp2.1\scanner.csprojAssemblyReference.cache
+D:\编译原理\scanner\scanner\obj\Debug\netcoreapp2.1\scanner.csproj.CoreCompileInputs.cache
+D:\编译原理\scanner\scanner\obj\Debug\netcoreapp2.1\scanner.AssemblyInfoInputs.cache
+D:\编译原理\scanner\scanner\obj\Debug\netcoreapp2.1\scanner.AssemblyInfo.cs
+D:\编译原理\scanner\scanner\obj\Debug\netcoreapp2.1\scanner.dll
+D:\编译原理\scanner\scanner\obj\Debug\netcoreapp2.1\scanner.pdb

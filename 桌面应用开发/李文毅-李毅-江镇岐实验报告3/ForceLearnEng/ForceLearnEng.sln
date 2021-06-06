@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForceLearnEng", "ForceLearnEng\ForceLearnEng.csproj", "{4C1428AF-804C-4FB5-9F5C-D9A0F258BCFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myMP3Player", "myMP3Player\myMP3Player.csproj", "{D2D3B085-5C67-4A28-BFC7-FB3DB7FF28A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C1428AF-804C-4FB5-9F5C-D9A0F258BCFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C1428AF-804C-4FB5-9F5C-D9A0F258BCFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C1428AF-804C-4FB5-9F5C-D9A0F258BCFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C1428AF-804C-4FB5-9F5C-D9A0F258BCFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2D3B085-5C67-4A28-BFC7-FB3DB7FF28A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2D3B085-5C67-4A28-BFC7-FB3DB7FF28A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2D3B085-5C67-4A28-BFC7-FB3DB7FF28A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2D3B085-5C67-4A28-BFC7-FB3DB7FF28A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E2B30D9-8F3E-47D0-917F-D10D3D93F478}
+	EndGlobalSection
+EndGlobal

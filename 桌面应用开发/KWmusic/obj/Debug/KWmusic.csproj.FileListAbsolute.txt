@@ -1,0 +1,15 @@
+D:\桌面应用开发\KWmusic\bin\Debug\KWmusic.exe.config
+D:\桌面应用开发\KWmusic\bin\Debug\KWmusic.exe
+D:\桌面应用开发\KWmusic\bin\Debug\KWmusic.pdb
+D:\桌面应用开发\KWmusic\obj\Debug\KWmusic.csprojAssemblyReference.cache
+D:\桌面应用开发\KWmusic\obj\Debug\KWmusic.Form1.resources
+D:\桌面应用开发\KWmusic\obj\Debug\KWmusic.Properties.Resources.resources
+D:\桌面应用开发\KWmusic\obj\Debug\KWmusic.csproj.GenerateResource.cache
+D:\桌面应用开发\KWmusic\obj\Debug\KWmusic.csproj.CoreCompileInputs.cache
+D:\桌面应用开发\KWmusic\obj\Debug\KWmusic.exe
+D:\桌面应用开发\KWmusic\obj\Debug\KWmusic.pdb
+D:\桌面应用开发\KWmusic\bin\Debug\Interop.WMPLib.dll
+D:\桌面应用开发\KWmusic\bin\Debug\AxInterop.WMPLib.dll
+D:\桌面应用开发\KWmusic\obj\Debug\Interop.WMPLib.dll
+D:\桌面应用开发\KWmusic\obj\Debug\AxInterop.WMPLib.dll
+D:\桌面应用开发\KWmusic\obj\Debug\KWmusic.csproj.ResolveComReference.cache

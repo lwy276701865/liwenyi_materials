@@ -1,0 +1,7 @@
+<view class="container" bindtap="rotateAni">
+<image class="img" mode="aspectFit" animation="{{animation}}" src='/images/pingzi.png'  >
+</image>
+</view>
+<view class="botArea" bindtap="rotateAni">
+<text class="myText">点击屏幕旋转可乐瓶，指向谁，谁就接受惩罚哦！</text>
+</view>

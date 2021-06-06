@@ -1,0 +1,8 @@
+E:\test\ch11\11-4\11-4\bin\Debug\11-4.exe.config
+E:\test\ch11\11-4\11-4\bin\Debug\11-4.exe
+E:\test\ch11\11-4\11-4\bin\Debug\11-4.pdb
+E:\test\ch11\11-4\11-4\obj\Debug\_11_4.Form1.resources
+E:\test\ch11\11-4\11-4\obj\Debug\_11_4.Properties.Resources.resources
+E:\test\ch11\11-4\11-4\obj\Debug\11-4.csproj.GenerateResource.Cache
+E:\test\ch11\11-4\11-4\obj\Debug\11-4.exe
+E:\test\ch11\11-4\11-4\obj\Debug\11-4.pdb

@@ -1,0 +1,5 @@
+E:\test\ch03\3-7\3-7\bin\Debug\3-7.exe.config
+E:\test\ch03\3-7\3-7\bin\Debug\3-7.exe
+E:\test\ch03\3-7\3-7\bin\Debug\3-7.pdb
+E:\test\ch03\3-7\3-7\obj\Debug\3-7.exe
+E:\test\ch03\3-7\3-7\obj\Debug\3-7.pdb

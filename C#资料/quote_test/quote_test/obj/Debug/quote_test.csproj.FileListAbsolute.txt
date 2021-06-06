@@ -1,0 +1,6 @@
+D:\C#代码\quote_test\quote_test\bin\Debug\quote_test.exe.config
+D:\C#代码\quote_test\quote_test\bin\Debug\quote_test.exe
+D:\C#代码\quote_test\quote_test\bin\Debug\quote_test.pdb
+D:\C#代码\quote_test\quote_test\obj\Debug\quote_test.csprojAssemblyReference.cache
+D:\C#代码\quote_test\quote_test\obj\Debug\quote_test.exe
+D:\C#代码\quote_test\quote_test\obj\Debug\quote_test.pdb

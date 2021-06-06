@@ -1,0 +1,13 @@
+E:\Desktop\Windows桌面\链接转二维码\QRcode\QRcode\obj\Debug\QRcode.frmQR.resources
+E:\Desktop\Windows桌面\链接转二维码\QRcode\QRcode\obj\Debug\QRcode.csproj.GenerateResource.cache
+E:\Desktop\Windows桌面\链接转二维码\QRcode\QRcode\obj\Debug\QRcode.csproj.CoreCompileInputs.cache
+E:\Desktop\Windows桌面\链接转二维码\QRcode\QRcode\bin\Debug\Gma.QrCodeNet.Encoding.Net45.dll
+E:\Desktop\Windows桌面\链接转二维码\QRcode\QRcode\bin\Debug\Yc.QrCodeLib.dll
+E:\Desktop\Windows桌面\链接转二维码\QRcode\QRcode\obj\Debug\QRcode.csproj.CopyComplete
+E:\Desktop\Windows桌面\链接转二维码\QRcode\QRcode\bin\Debug\QRcodeTool.exe.config
+E:\Desktop\Windows桌面\链接转二维码\QRcode\QRcode\bin\Debug\QRcodeTool.exe
+E:\Desktop\Windows桌面\链接转二维码\QRcode\QRcode\bin\Debug\QRcodeTool.pdb
+E:\Desktop\Windows桌面\链接转二维码\QRcode\QRcode\obj\Debug\QRcode.csprojAssemblyReference.cache
+E:\Desktop\Windows桌面\链接转二维码\QRcode\QRcode\obj\Debug\QRcodeTool.Properties.Resources.resources
+E:\Desktop\Windows桌面\链接转二维码\QRcode\QRcode\obj\Debug\QRcodeTool.exe
+E:\Desktop\Windows桌面\链接转二维码\QRcode\QRcode\obj\Debug\QRcodeTool.pdb

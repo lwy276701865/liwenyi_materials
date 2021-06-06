@@ -1,0 +1,17 @@
+/Users/charch/Desktop/Xiangyu/CinemaTicket/CinemaTicket/bin/Debug/CinemaTicket.exe
+/Users/charch/Desktop/Xiangyu/CinemaTicket/CinemaTicket/bin/Debug/CinemaTicket.pdb
+/Users/charch/Desktop/Xiangyu/CinemaTicket/CinemaTicket/obj/x86/Debug/CinemaTicket.csproj.CoreCompileInputs.cache
+/Users/charch/Desktop/Xiangyu/CinemaTicket/CinemaTicket/obj/x86/Debug/CinemaTicket.exe
+/Users/charch/Desktop/Xiangyu/CinemaTicket/CinemaTicket/obj/x86/Debug/CinemaTicket.pdb
+/Users/charch/Desktop/Xiangyu/CinemaTicket/CinemaTicket/bin/Debug/MySql.Data.dll
+/Users/charch/Desktop/Xiangyu/CinemaTicket/CinemaTicket/obj/x86/Debug/CinemaTicket.csprojResolveAssemblyReference.cache
+C:\Users\xiangyu2012\Desktop\c#\CinemaTicket 2\CinemaTicket\CinemaTicket\obj\x86\Debug\CinemaTicket.exe
+C:\Users\xiangyu2012\Desktop\c#\CinemaTicket 2\CinemaTicket\CinemaTicket\obj\x86\Debug\CinemaTicket.pdb
+C:\Users\xiangyu2012\Desktop\c#\CinemaTicket 2\CinemaTicket\CinemaTicket\bin\Debug\CinemaTicket.exe
+C:\Users\xiangyu2012\Desktop\c#\CinemaTicket 2\CinemaTicket\CinemaTicket\bin\Debug\CinemaTicket.pdb
+C:\Users\xiangyu2012\Desktop\c#\CinemaTicket 2\CinemaTicket\CinemaTicket\obj\x86\Debug\CinemaTicket.csprojResolveAssemblyReference.cache
+E:\test\C#\ch21\CinemaTicket\CinemaTicket\CinemaTicket\bin\Debug\CinemaTicket.exe
+E:\test\C#\ch21\CinemaTicket\CinemaTicket\CinemaTicket\bin\Debug\CinemaTicket.pdb
+E:\test\C#\ch21\CinemaTicket\CinemaTicket\CinemaTicket\obj\x86\Debug\CinemaTicket.csprojResolveAssemblyReference.cache
+E:\test\C#\ch21\CinemaTicket\CinemaTicket\CinemaTicket\obj\x86\Debug\CinemaTicket.exe
+E:\test\C#\ch21\CinemaTicket\CinemaTicket\CinemaTicket\obj\x86\Debug\CinemaTicket.pdb

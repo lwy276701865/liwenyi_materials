@@ -1,0 +1,9 @@
+E:\test\ch08\8-10\8-10\bin\Debug\8-10.exe.config
+E:\test\ch08\8-10\8-10\bin\Debug\8-10.exe
+E:\test\ch08\8-10\8-10\bin\Debug\8-10.pdb
+E:\test\ch08\8-10\8-10\obj\Debug\8-10.csprojResolveAssemblyReference.cache
+E:\test\ch08\8-10\8-10\obj\Debug\_8_10.Form1.resources
+E:\test\ch08\8-10\8-10\obj\Debug\_8_10.Properties.Resources.resources
+E:\test\ch08\8-10\8-10\obj\Debug\8-10.csproj.GenerateResource.Cache
+E:\test\ch08\8-10\8-10\obj\Debug\8-10.exe
+E:\test\ch08\8-10\8-10\obj\Debug\8-10.pdb

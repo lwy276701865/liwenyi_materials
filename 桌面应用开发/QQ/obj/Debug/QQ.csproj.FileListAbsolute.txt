@@ -1,0 +1,11 @@
+D:\桌面应用开发\QQ\bin\Debug\QQ.exe.config
+D:\桌面应用开发\QQ\bin\Debug\QQ.exe
+D:\桌面应用开发\QQ\bin\Debug\QQ.pdb
+D:\桌面应用开发\QQ\obj\Debug\QQ.csprojAssemblyReference.cache
+D:\桌面应用开发\QQ\obj\Debug\QQ.Form1.resources
+D:\桌面应用开发\QQ\obj\Debug\QQ.Properties.Resources.resources
+D:\桌面应用开发\QQ\obj\Debug\QQ.csproj.GenerateResource.cache
+D:\桌面应用开发\QQ\obj\Debug\QQ.csproj.CoreCompileInputs.cache
+D:\桌面应用开发\QQ\obj\Debug\QQ.exe
+D:\桌面应用开发\QQ\obj\Debug\QQ.pdb
+D:\桌面应用开发\QQ\obj\Debug\QQ.Form2.resources

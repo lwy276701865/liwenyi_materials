@@ -1,0 +1,12 @@
+E:\test\ch05\5-8\5-8\bin\Debug\5-8.exe.config
+E:\test\ch05\5-8\5-8\bin\Debug\5-8.exe
+E:\test\ch05\5-8\5-8\bin\Debug\5-8.pdb
+E:\test\ch05\5-8\5-8\obj\Debug\5-8.csprojResolveAssemblyReference.cache
+E:\test\ch05\5-8\5-8\obj\Debug\5-8.exe
+E:\test\ch05\5-8\5-8\obj\Debug\5-8.pdb
+D:\C#代码\本书案例源代码\源代码\ch05\5-8\5-8\bin\Debug\5-8.exe.config
+D:\C#代码\本书案例源代码\源代码\ch05\5-8\5-8\bin\Debug\5-8.exe
+D:\C#代码\本书案例源代码\源代码\ch05\5-8\5-8\bin\Debug\5-8.pdb
+D:\C#代码\本书案例源代码\源代码\ch05\5-8\5-8\obj\Debug\5-8.csprojAssemblyReference.cache
+D:\C#代码\本书案例源代码\源代码\ch05\5-8\5-8\obj\Debug\5-8.exe
+D:\C#代码\本书案例源代码\源代码\ch05\5-8\5-8\obj\Debug\5-8.pdb

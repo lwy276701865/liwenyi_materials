@@ -1,0 +1,33 @@
+/* pages/page1/page1.wxss */
+.btn{
+  width:80%;
+  color:white;
+  margin-top:20rpx;
+  background-color:rgb(228, 179, 115);
+  border-radius: 98rpx;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn::after{
+  border:0;/*完美圆角效果*/
+}
+
+.btn1-hover{
+  background: rgb(185, 128, 53);/*指定按钮按下去的样式*/
+}
+
+.image{
+  width:90%;
+  /*height:300px;*/
+  display: flex;
+}
+
+.btn-area {
+  margin-top: 60rpx;
+  box-sizing: border-box;
+  width: 100%;
+  padding: 0 30rpx;
+}
